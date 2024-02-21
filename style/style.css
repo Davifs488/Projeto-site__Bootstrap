@@ -21,13 +21,17 @@ body {
   color: white;
 }
 
+.nav-item .nav-link {
+  color: white;
+}
+
 h5 {
   padding: 30px;
 
   border-radius: 35px;
 
   background-color: rgb(253, 253, 247);
-  color: #2b0101;
+  color: black;
 
   text-align: center;
 }
@@ -59,18 +63,18 @@ nav.navbar-transparente {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: red;
+  color: rgb(16, 1, 1);
   margin-left: 15px;
   margin-bottom: 5px;
 
   padding-left: 35px;
   border-radius: 20px;
 
-  background-color: blue;
+  background-color: rgb(226, 254, 178);
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
-  color: rgb(87, 6, 249);
+  color: rgb(105, 3, 3);
 }
 
 /*----------------------------------------*/
@@ -203,7 +207,7 @@ h3 {
   border-radius: 25px;
   margin: 2px;
 
-  border: #3e0303;
+  border: #1a0101;
   background-color: #130d1d;
 }
 /* footer p a {
@@ -352,7 +356,7 @@ body2 {
   padding: 8px 20px;
   margin-top: 15px;
   background: #fff;
-  color: black;
+  color: rgb(16, 0, 0);
   text-decoration: none;
   border-radius: 20px;
   font-weight: 500;
